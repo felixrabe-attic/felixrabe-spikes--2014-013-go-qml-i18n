@@ -11,4 +11,4 @@ Progress so far:
         lupdate ui.qml -ts i18n/base.ts
         cp i18n/base.ts i18n/qml_de.ts
 
--   Ran Qt Linguist to translate `i18n/qml_de.ts`.
+-   Ran Qt Linguist to translate `i18n/qml_de.ts`. Saved and released.
